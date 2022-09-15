@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1383525203 source:c:\ej17\tdapila.c
+	"tdapila.h"
+
+1384749330 c:\ej17\tdapila.h
+
+1384749324 source:c:\ej17\17.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"tdapila.h"
+

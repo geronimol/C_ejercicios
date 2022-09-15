@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1384915375 source:c:\c\ejj17\ej17.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"tdapilad.h"
+
+1384907646 c:\c\ejj17\tdapilad.h
+
