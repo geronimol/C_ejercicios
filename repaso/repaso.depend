@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1383971827 source:c:\c\repaso\tdacolad.c
+	"tdacolad.h"
+	<stdio.h>
+
+1383971808 c:\c\repaso\tdacolad.h
+
+1385578818 source:c:\c\repaso\rep.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"tdacolad.h"
+
